@@ -12,8 +12,8 @@
 #      python provision_coffee.py
 # ============================================================
 
-YOUR_WIFI_NAME     = "NETWORK_ID"      # e.g. "MyHomeNetwork"
-YOUR_WIFI_PASSWORD = "PASSWORD"  # e.g. "mysecretpassword"
+YOUR_WIFI_NAME     = "REPLACE_WITH_YOUR_NETWORK_ID"      # e.g. "MyHomeNetwork"
+YOUR_WIFI_PASSWORD = "REPLACE_WITH_YOUR_PASSWORD"  # e.g. "mysecretpassword"
 
 # ============================================================
 # Nothing below this line needs to be changed
